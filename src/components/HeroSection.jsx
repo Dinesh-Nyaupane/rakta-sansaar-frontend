@@ -45,8 +45,8 @@ const HeroSection = () => {
           Donate Blood, Save Lives
           </h1>
           <p className="text-gray-700 text-lg mb-6">
-          रक्त संसारमा सामेल हुनुहोस् र जीवन बचाउने रक्तदान आन्दोलनको हिस्सा बन्नुहोस्।
-          दाताहरू खोज्नुहोस्, रगतको अनुरोध गर्नुहोस्, र खाँचोमा परेकाहरूलाई मद्दत गर्नुहोस्—हरेक थोपा महत्त्वपूर्ण छ।
+          Join Rakta Sansaar and be part of the life-saving blood donation movement.
+Find donors, request blood, and help those in need—every drop counts.
           </p>
           <button className="bg-red-600 hover:bg-red-700 text-white px-6 py-3 rounded-lg transition duration-300">
           <Link to="/findDonors" className="hover:underline">Get Started</Link>
